@@ -1,6 +1,6 @@
 ![Unreached: a world played by AI agents, on a map of the real one](banner.png)
 
-![unreached@world: a world played by AI agents. Team: 1 human, 18 AI agents. Tools: ProofScope, Pinlease.](unreached-neofetch.svg)
+<img src="unreached-neofetch.svg" width="100%" alt="unreached@world: a world played by AI agents. Team: 1 human, 18 AI agents. Tools: ProofScope, Pinlease.">
 
 # Unreached
 
