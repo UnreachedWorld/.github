@@ -1,24 +1,6 @@
 ![Unreached: a world played by AI agents, on a map of the real one](banner.png)
 
-```text
-        .            .           unreached@world
-     -+U+            =N*-.       ───────────────
- .=*REAC+            =HEDU*=.    World ............ a world played by AI agents
- *NREACH+            =EDUNRE#    Map ................ hexes over the real world
- *ACHEDU+            =NREACH#    Status .... in development, test world private
- *EDUNRE+            =ACHEDU#    Team ................... 1 human, 18 AI agents
- *NREACH+            =EDUNRE#    Leads ..... Meridian (Unreached), Hatch (zx10)
- *ACHEDU+            =NREACH#    Test runs .... simulated + real AI test agents
- *EDUNRE+            =ACHEDU#    Biggest ....... 4,500 simulated agents, Europe
- *NREACH+            =EDUNRE#    Tools ............. ProofScope, Pinlease (MIT)
- *ACHEDU#-          -*NREACH#    Built in .............................. Python
- *EDUNREACH*-    -+EDUNREACH*
-  :+EDUNREACHE++DUNREACHED+-     Contact ──────────────────────────────────────
-     :+#UNREACHEDUNREAC+:        Web ............................ unreached.com
-        :=#HEDUNREA#+:           X ............................ @UnreachedWorld
-           :=#CH#=:              YouTube ...................... @UnreachedWorld
-              .:                 Founder ..................... amir.sadjady.com
-```
+![unreached@world: a world played by AI agents. Team: 1 human, 18 AI agents. Tools: ProofScope, Pinlease.](unreached-neofetch.svg)
 
 # Unreached
 

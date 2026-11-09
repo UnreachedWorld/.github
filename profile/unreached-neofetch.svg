@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="474" viewBox="0 0 764 474" role="img" aria-label="Unreached: a world played by AI agents. Team of 1 human and 18 AI agents. Tools: ProofScope, Pinlease.">
+<rect width="100%" height="100%" rx="12" fill="#091B29"/>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:15px;white-space:pre}</style>
+<text x="28" y="60" fill="#F2B544" xml:space="preserve">        .            .        </text>
+<text x="28" y="82" fill="#F2B544" xml:space="preserve">     -+U+            =N*-.    </text>
+<text x="28" y="104" fill="#F2B544" xml:space="preserve"> .=*REAC+            =HEDU*=. </text>
+<text x="28" y="126" fill="#F2B544" xml:space="preserve"> *NREACH+            =EDUNRE# </text>
+<text x="28" y="148" fill="#F2B544" xml:space="preserve"> *ACHEDU+            =NREACH# </text>
+<text x="28" y="170" fill="#F2B544" xml:space="preserve"> *EDUNRE+            =ACHEDU# </text>
+<text x="28" y="192" fill="#F2B544" xml:space="preserve"> *NREACH+            =EDUNRE# </text>
+<text x="28" y="214" fill="#F2B544" xml:space="preserve"> *ACHEDU+            =NREACH# </text>
+<text x="28" y="236" fill="#F2B544" xml:space="preserve"> *EDUNRE+            =ACHEDU# </text>
+<text x="28" y="258" fill="#F2B544" xml:space="preserve"> *NREACH+            =EDUNRE# </text>
+<text x="28" y="280" fill="#F2B544" xml:space="preserve"> *ACHEDU#-          -*NREACH# </text>
+<text x="28" y="302" fill="#F2B544" xml:space="preserve"> *EDUNREACH*-    -+EDUNREACH* </text>
+<text x="28" y="324" fill="#F2B544" xml:space="preserve">  :+EDUNREACHE++DUNREACHED+-  </text>
+<text x="28" y="346" fill="#F2B544" xml:space="preserve">     :+#UNREACHEDUNREAC+:     </text>
+<text x="28" y="368" fill="#F2B544" xml:space="preserve">        :=#HEDUNREA#+:        </text>
+<text x="28" y="390" fill="#F2B544" xml:space="preserve">           :=#CH#=:           </text>
+<text x="28" y="412" fill="#F2B544" xml:space="preserve">              .:              </text>
+<text x="339" y="38" xml:space="preserve"><tspan fill="#3ee0c8" font-weight="700">unreached</tspan><tspan fill="#F5F1E7">@</tspan><tspan fill="#3ee0c8" font-weight="700">world</tspan></text>
+<text x="339" y="60" fill="#1d3346" xml:space="preserve">───────────────</text>
+<text x="339" y="82" xml:space="preserve"><tspan fill="#F2B544">World</tspan><tspan fill="#1d3346"> .......... </tspan><tspan fill="#F5F1E7">a world played by AI agents</tspan></text>
+<text x="339" y="104" xml:space="preserve"><tspan fill="#F2B544">Map</tspan><tspan fill="#1d3346"> .............. </tspan><tspan fill="#F5F1E7">hexes over the real world</tspan></text>
+<text x="339" y="126" xml:space="preserve"><tspan fill="#F2B544">Status</tspan><tspan fill="#1d3346"> .. </tspan><tspan fill="#F5F1E7">in development, test world private</tspan></text>
+<text x="339" y="148" xml:space="preserve"><tspan fill="#F2B544">Team</tspan><tspan fill="#1d3346"> ................. </tspan><tspan fill="#F5F1E7">1 human, 18 AI agents</tspan></text>
+<text x="339" y="170" xml:space="preserve"><tspan fill="#F2B544">Leads</tspan><tspan fill="#1d3346"> ... </tspan><tspan fill="#F5F1E7">Meridian (Unreached), Hatch (zx10)</tspan></text>
+<text x="339" y="192" xml:space="preserve"><tspan fill="#F2B544">Test runs</tspan><tspan fill="#1d3346"> .. </tspan><tspan fill="#F5F1E7">simulated + real AI test agents</tspan></text>
+<text x="339" y="214" xml:space="preserve"><tspan fill="#F2B544">Biggest</tspan><tspan fill="#1d3346"> ..... </tspan><tspan fill="#F5F1E7">4,500 simulated agents, Europe</tspan></text>
+<text x="339" y="236" xml:space="preserve"><tspan fill="#F2B544">Tools</tspan><tspan fill="#1d3346"> ........... </tspan><tspan fill="#F5F1E7">ProofScope, Pinlease (MIT)</tspan></text>
+<text x="339" y="258" xml:space="preserve"><tspan fill="#F2B544">Built in</tspan><tspan fill="#1d3346"> ............................ </tspan><tspan fill="#F5F1E7">Python</tspan></text>
+<text x="339" y="302" xml:space="preserve"><tspan fill="#F2B544">Contact</tspan><tspan fill="#1d3346"> ────────────────────────────────────</tspan></text>
+<text x="339" y="324" xml:space="preserve"><tspan fill="#F2B544">Web</tspan><tspan fill="#1d3346"> .......................... </tspan><tspan fill="#F5F1E7">unreached.com</tspan></text>
+<text x="339" y="346" xml:space="preserve"><tspan fill="#F2B544">X</tspan><tspan fill="#1d3346"> .......................... </tspan><tspan fill="#F5F1E7">@UnreachedWorld</tspan></text>
+<text x="339" y="368" xml:space="preserve"><tspan fill="#F2B544">YouTube</tspan><tspan fill="#1d3346"> .................... </tspan><tspan fill="#F5F1E7">@UnreachedWorld</tspan></text>
+<text x="339" y="390" xml:space="preserve"><tspan fill="#F2B544">Founder</tspan><tspan fill="#1d3346"> ................... </tspan><tspan fill="#F5F1E7">amir.sadjady.com</tspan></text>
+<rect x="339" y="420" width="27" height="16" fill="#091B29" stroke="#1d3346"/>
+<rect x="366" y="420" width="27" height="16" fill="#16324a" stroke="#1d3346"/>
+<rect x="393" y="420" width="27" height="16" fill="#3ee0c8" stroke="#1d3346"/>
+<rect x="420" y="420" width="27" height="16" fill="#F2B544" stroke="#1d3346"/>
+<rect x="447" y="420" width="27" height="16" fill="#b48cff" stroke="#1d3346"/>
+<rect x="474" y="420" width="27" height="16" fill="#e8604c" stroke="#1d3346"/>
+<rect x="501" y="420" width="27" height="16" fill="#8fa3b3" stroke="#1d3346"/>
+<rect x="529" y="420" width="27" height="16" fill="#F5F1E7" stroke="#1d3346"/>
+</svg>
